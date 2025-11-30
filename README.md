@@ -1,2 +1,2 @@
 # password-checker
-A simple tool that helps password strength
+A simple tool that helps check password strength

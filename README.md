@@ -4,7 +4,7 @@ This is a small Python project I made to practice basic cybersecurity concepts.
 The program checks how strong a password is and gives it a one word description like “Weak,” “Medium,” or “Strong.”
 
 
-# How the Program Works
+## How the Program Works
 
 Here’s the basic idea:
 
@@ -21,9 +21,13 @@ Here’s the basic idea:
 It’s a simple way to show how passwords are judged for security.
 
 
-# How To Run It:
+## How To Run It:
+
+demo video: https://drive.google.com/file/d/1EBgB9Hk6Lea8HyZvfKMRlMYRMIbEqNj6/view 
 
 In a terminal or command prompt, use:
 
 ```bash
 python3 password-checker.py
+
+
